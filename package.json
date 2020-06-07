@@ -1,0 +1,14 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Test nodeJS app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Ana Berrocal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
